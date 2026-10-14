@@ -549,7 +549,7 @@ Cluster 1 shows above-average standardized log spending on Fresh and Frozen. Clu
 The following recommendations aim to increase customer spending and loyalty through strategies tailored to the two segments.
 
 | Recommendation | Segment Evidence | Proposed Action and Marketing Mix |
-|---|---|---|
+|----|----|----|
 | **1. Introduce a loyalty card** | Cluster 2 includes 75 high-spending customers, while Cluster 1 includes 35. | Offer a loyalty card with rewards tailored to purchasing patterns: Fresh and Frozen benefits for Cluster 1, and Grocery, Milk, and Detergents_Paper benefits for Cluster 2. Reward thresholds could encourage additional purchases. **Price and Promotion.** |
 | **2. Send personalized email or SMS offers** | Cluster 1 focuses on Fresh and Frozen; Cluster 2 focuses on Grocery, Milk, and Detergents_Paper. | With voluntary consent, send category-specific promotions and relevant complementary-product offers. These messages could increase revenue by encouraging additional purchases and making offers more relevant. **Product and Promotion.** |
 | **3. Test bundles and volume discounts** | Cluster 2 has higher mean annual spending (44,883.68), and Grocery, Milk, and Detergents_Paper show positive spending associations in the full dataset. | Test combined offers involving these categories for Cluster 2 and Fresh and Frozen volume discounts for Cluster 1. Set discounts that protect margins. **Product and Price.** |
@@ -563,10 +563,10 @@ Revenue and loyalty improvements are expected outcomes to test, rather than demo
 
 The analysis has four important limitations:
 
-1. **Limited information:** Annual spending does not reveal purchase frequency, individual order values, satisfaction, loyalty, or responses to promotions. The dataset also does not contain customer age or email addresses.
-2. **Overlapping segments:** The average silhouette score of **0.29** indicates that the groups are not clearly separated and that some customers have similar patterns across segment boundaries.
-3. **Dependence on analytical choices:** Transformation, standardization, and the selected number of clusters influence the results. Alternative choices may produce different segment profiles.
-4. **Wholesale context:** The dataset represents wholesale customers. These profiles cannot be transferred directly to individual supermarket consumers without collecting and analysing relevant supermarket data.
+1.  **Limited information:** Annual spending does not reveal purchase frequency, individual order values, satisfaction, loyalty, or responses to promotions. The dataset also does not contain customer age or email addresses.
+2.  **Overlapping segments:** The average silhouette score of **0.29** indicates that the groups are not clearly separated and that some customers have similar patterns across segment boundaries.
+3.  **Dependence on analytical choices:** Transformation, standardization, and the selected number of clusters influence the results. Alternative choices may produce different segment profiles.
+4.  **Wholesale context:** The dataset represents wholesale customers. These profiles cannot be transferred directly to individual supermarket consumers without collecting and analysing relevant supermarket data.
 
 ### Responsible Use and a Proposed Pilot
 
